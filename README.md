@@ -19,7 +19,7 @@ By using the CodeSkulptor link above, the player may also play the same implemen
 
 In the text-based version, the grid spacing will adjust according to the size of the largest number.
 
-![Grid-spacing example image](images/Screen Shot 2016-10-03 at 11.28.55 AM.png)
+![Grid-spacing example image](images/Screen Shot 2016-10-03 at 11.31.55 AM.png)
 
 In the text-based version, invalid inputs are handled such that game state is maintained until valid input is entered.
 
