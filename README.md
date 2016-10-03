@@ -9,7 +9,7 @@ This project simulates the popular puzzle game, 2048. Traditionally, the game in
 
 When run from the shell, the player may use the WASD keys to indicate up, left, down, and right. The board is represented as a 4x4 grid of numbers. At any time, the player may type 'N' to start a new game or 'Q' to quit. All commands are case-insensitive.
 
-![alt tag](http://imgur.com/kGJReAS)
+![alt tag](images/Screen Shot 2016-10-03 at 11.28.55 AM.png)
 
 By using the CodeSkulptor link above, the player may also play the same implementation of the game but with a GUI interface.
 
