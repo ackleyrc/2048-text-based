@@ -9,25 +9,25 @@ This project simulates the popular puzzle game, 2048. Traditionally, the game in
 
 When run from the shell, the player may use the WASD keys to indicate up, left, down, and right. The board is represented as a 4x4 grid of numbers. At any time, the player may type 'N' to start a new game or 'Q' to quit. All commands are case-insensitive.
 
-![alt tag](images/Screen Shot 2016-10-03 at 11.28.55 AM.png)
+![Text-based example image](images/Screen Shot 2016-10-03 at 12.10.58 PM.png)
 
 By using the CodeSkulptor link above, the player may also play the same implementation of the game but with a GUI interface.
 
-![alt tag](http://imgur.com/4vTRvXD)
+![GUI example image](images/Screen Shot 2016-10-03 at 11.52.25 AM.png)
 
 # Additional features:
 
 In the text-based version, the grid spacing will adjust according to the size of the largest number.
 
-![alt tag](http://imgur.com/UQelrO6)
+![Grid-spacing example image](images/Screen Shot 2016-10-03 at 11.28.55 AM.png)
 
 In the text-based version, invalid inputs are handled such that game state is maintained until valid input is entered.
 
-![alt tag](http://imgur.com/VWIwGsN)
+![Invalid input example image](images/Screen Shot 2016-10-03 at 11.37.59 AM.png)
 
 The class generating the board will accept any arbitrary board size.
 
-![alt tag](http://imgur.com/hPqNnWS)
+![Different grid dimenstions example image (text-based)](images/Screen Shot 2016-10-03 at 11.41.08 AM.png)
 
-![alt tag](http://imgur.com/SpDCzOz)
+![Different grid dimenstions example image (GUI-based)](images/Screen Shot 2016-10-03 at 11.48.29 AM.png)
 
