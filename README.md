@@ -27,7 +27,9 @@ In the text-based version, invalid inputs are handled such that game state is ma
 
 The class generating the board will accept any arbitrary board size.
 
+Text-based
 ![Different grid dimenstions example image (text-based)](images/Screen Shot 2016-10-03 at 11.41.08 AM.png)
 
+GUI version
 ![Different grid dimenstions example image (GUI-based)](images/Screen Shot 2016-10-03 at 11.48.29 AM.png)
 
