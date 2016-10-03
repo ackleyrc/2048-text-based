@@ -50,8 +50,8 @@ class TwentyFortyEight:
         """
         Return a string representation of the grid for debugging.
         """
-
-        return '\n'.join([' '.join([str(cell) for cell in row]) for row in self._grid])
+        width = len(str(max([cell for row in self._grid for cell in row])))
+        return '\n'.join(['  '.join([str(cell).ljust(width,' ') for cell in row]) for row in self._grid])
 
     def get_grid_height(self):
         """
